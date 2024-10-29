@@ -13,37 +13,37 @@ export const DATA = {
   skills: ["React", "Next.js", "Typescript", "SCSS", "Tailwind"],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    // { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "philson.k.philip@gmail.com",
+    tel: "+919497355966",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/philson-philip",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "https://www.linkedin.com/in/philson-philip/",
         icon: Icons.linkedin,
 
         navbar: true,
       },
       X: {
         name: "X",
-        url: "https://dub.sh/dillion-twitter",
+        url: "https://x.com/philson__philip",
         icon: Icons.x,
 
         navbar: true,
       },
-      Youtube: {
-        name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
-        icon: Icons.youtube,
+      Peerlist: {
+        name: "Peerlist",
+        url: "https://peerlist.io/philson",
+        icon: Icons.peerlist,
         navbar: true,
       },
       email: {
