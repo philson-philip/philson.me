@@ -20,7 +20,7 @@ export default function Page() {
             <div className="flex-col flex flex-1 space-y-4">
               <BlurFade delay={BLUR_FADE_DELAY} yOffset={8}>
                 <h2 className="text-3xl/none">
-                  <span className="opacity-80">Hi 👋, I'm </span>
+                  <span className="opacity-80">Hi 👋, I&apos;m </span>
                   <span className="font-bold text-black dark:text-white">
                     {DATA.name}
                   </span>
